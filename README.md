@@ -1,5 +1,5 @@
 
-# Insecure Temporary Files in Rust with Actix-Web
+# Insecure Temporary Files in Rust with Actix-Web 🦀
 
 This project demonstrates the **insecure temporary file vulnerability** and its mitigation in a Rust web application built with the `actix-web` framework.
 
