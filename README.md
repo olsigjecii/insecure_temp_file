@@ -1,4 +1,4 @@
-# Insecure Temporary Files in Rust with Actix-Web
+# Insecure Temporary Files in Rust 🦀
 
 This repo demonstrates an **insecure temporary file** pattern (predictable path under `/tmp`) and a safer alternative using Rust’s `tempfile` crate.
 
